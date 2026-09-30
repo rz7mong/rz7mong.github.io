@@ -1,5 +1,10 @@
-# 🍡 rz7mong.github.io
+# rz7mong.github.io (arsip)
 
-Situs instalasi **Mochi rzmong** — ESP32-C3 Super Mini + ST7789.
+Situs instalasi **usang**. Jangan flash firmware dari repo ini.
 
-➡️ Buka: [rz7mong.github.io/mochi-rzmong](https://rz7mong.github.io/mochi-rzmong/)
+Sumber tunggal firmware **0.5.1**:
+
+- Repo: https://github.com/rz7mong/mochi-rzmong
+- Situs: https://rz7mong.github.io/mochi-rzmong/
+
+AP perangkat: `rzmong mochi` / `rzmong123`.
