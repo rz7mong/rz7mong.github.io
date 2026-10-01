@@ -1,10 +1,7 @@
-# rz7mong.github.io (arsip)
+# rz7mong.github.io
 
-Situs instalasi **usang**. Jangan flash firmware dari repo ini.
+Arsip. Jangan flash dari sini.
 
-Sumber tunggal firmware **0.5.1**:
+Instalasi terbaru: https://rz7mong.github.io/mochi-rzmong/
 
-- Repo: https://github.com/rz7mong/mochi-rzmong
-- Situs: https://rz7mong.github.io/mochi-rzmong/
-
-AP perangkat: `rzmong mochi` / `rzmong123`.
+Firmware: menu Jam HP (waktu HP, mata berkedip, baterai HP).
