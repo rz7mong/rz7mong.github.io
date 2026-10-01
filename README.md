@@ -2,6 +2,6 @@
 
 Arsip. Jangan flash dari sini.
 
-Instalasi terbaru: https://rz7mong.github.io/mochi-rzmong/
+Instalasi: https://rz7mong.github.io/mochi-rzmong/
 
-Firmware: menu Jam HP (waktu HP, mata berkedip, baterai HP).
+Jam HP dipilih dari HP di http://192.168.4.1/ karena LCD tidak sentuh.
