@@ -5,3 +5,5 @@ Arsip. Jangan flash dari sini.
 Instalasi: https://rz7mong.github.io/mochi-rzmong/
 
 Jam HP dipilih dari HP di http://192.168.4.1/ karena LCD tidak sentuh.
+
+Demo rakit: https://rz7mong.github.io/mochi-rzmong/pemasangan-kabel.html (kabel lepas) · https://rz7mong.github.io/mochi-rzmong/pemasangan.html (PCB carrier)
